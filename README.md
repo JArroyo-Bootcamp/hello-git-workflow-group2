@@ -36,3 +36,4 @@ An SAP Fiori application.
 Commit1: jerome.a.arroyo
 Commit2: eduardo.obrence
 Commit3: alyssa.m.bernaldo
+Commit4: jason.patigayon
